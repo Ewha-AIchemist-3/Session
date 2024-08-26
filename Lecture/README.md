@@ -23,8 +23,8 @@
 + 과제는 세션 시작 한시간 전까지 제출합니다.  
 ## 🌱 Commit 규칙   
 ### Commit Convention  
-    [Week n] {단원이름} - 이론 PPT 제출
-    [Week n] {단원이름} - {교재 예제 이름} 코드 필사      
+    [Week n] 이론 PPT 제출
+    [Week n] {교재 예제 이름} 코드 필사      
 + 해당 주차 branch 생성 및 전환하기 
 + 본인 Repository에 n주차 폴더 생성 후 해당 폴더 내에 과제 Commit하기   
 ## 🌱 PR 규칙          
