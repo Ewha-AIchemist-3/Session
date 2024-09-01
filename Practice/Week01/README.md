@@ -13,7 +13,8 @@
 **📑 활용 자료**     
 1. 캐글 Cereals   
 2. 캐글 Linear Regression Salary   
-3. 캐글 Titanic     
+3. 캐글 Titanic        
+
 활용 자료는 모두 Week01 > docs 폴더에 있으니 확인해주세요!   
 
 ## 🌱 Commit 규칙   
