@@ -16,6 +16,8 @@ https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a
 https://north-lilac-170.notion.site/46b53fcb912a4734b15837929fd56360   
 
 **이론 PPT**
+[AIchemist3_1.PPT.pdf](https://github.com/user-attachments/files/16833857/AIchemist3_1.PPT.pdf)
+[3LN1_타이타닉.pdf](https://github.com/user-attachments/files/16834336/3LN1_.pdf)
 
 
 ## 🚨 알림
