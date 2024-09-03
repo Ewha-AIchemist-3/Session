@@ -16,8 +16,15 @@ https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a
 **이론 PPT**   
 [LN2_ver2.0.pdf](https://github.com/user-attachments/files/16842039/LN2_ver2.0.pdf)
 
+***Discussion Question***
+1. 각 평가 지표는 어떤 데이터 분석상황에서 적합할까? (F1 Score, ROC 곡선과 AUC)   
+2. 피마 인디언 당뇨병 예측에서 제작한 모델 구조를 또 어떤 상황에서 그대로 적용해볼 수 있을까?   
+3. 정밀도와 재현율 트레이드 오프, 또 어떤 트레이드 오프 사례들이 있을까? (데이터분석 상황에서 실생활까지)   
 
-## 🚨 알림
+## 🚨 알림   
+💐다음주 발표자
+이론 발표 - 박현서   
+코드 리뷰 - 강서연   
 
 ## 🌱 Commit 규칙   
 ### Commit Convention
