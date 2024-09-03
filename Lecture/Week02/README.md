@@ -14,7 +14,7 @@
 https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a    
 
 **이론 PPT**
-
+[LN2_ver2.0.pdf](https://github.com/user-attachments/files/16842039/LN2_ver2.0.pdf)
 
 
 ## 🚨 알림
