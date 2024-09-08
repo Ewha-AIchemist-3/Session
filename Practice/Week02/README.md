@@ -12,4 +12,4 @@
 1. 캐글 Pima Indians Diabetes Database   
 2. 주피터 노트북 - 피마 인디언 당뇨병 예측         
 
-활용 자료는 모두 Week012 > docs 폴더에 있습니다.  
+활용 자료는 모두 Week02 > docs 폴더에 있습니다.  
