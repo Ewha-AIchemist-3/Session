@@ -18,6 +18,10 @@ https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a
 **이론 PPT**   
 [AIchemist.3.4.pdf](https://github.com/user-attachments/files/17097596/AIchemist.3.4.pdf)
 
+**이론 발표**
+[ch4.분류_4주차발표.pdf](https://github.com/user-attachments/files/17187829/ch4._4.pdf)
+
+
 ***Discussion Question***
 1. 스태킹 앙상블 기법을 활용할 때, 메타 모델을 어떤 기준으로 선정하면 좋을지 고민해봅시다
 2. XGBoost와 LightGBM의 차이점, 특성, 장단점 등을 비교분석 해봅시다
