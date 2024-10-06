@@ -12,7 +12,7 @@
 https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a
 
 **이론 PPT**   
-
+[AIchemist.3.5.pdf](https://github.com/user-attachments/files/17270218/AIchemist.3.5.pdf)
 
 **이론 발표**
 
