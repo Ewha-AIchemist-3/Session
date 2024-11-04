@@ -24,9 +24,7 @@ https://north-lilac-170.notion.site/ed7e6744a215437fa84f072ae387c29a
 
 
 ## 🚨 알림   
-💐다음주 발표자   
-발표자 없습니다😊
-운영진의 이론 리뷰가 있을 예정입니다!
+
 
 ## 🌱 Commit 규칙   
 ### Commit Convention
