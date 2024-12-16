@@ -1,12 +1,13 @@
 ---
-## 아이디어톤 데이터세트
+## 💖 아이디어톤 데이터세트
 
-1. [ObesityDataSet_raw_and_data_sinthetic](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+1. [ObesityDataSet_raw_and_data_sinthetic]
+(https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 
-2. [영화 정보 데이터셋]
+2. [영화 정보 데이터셋]   
 (https://drive.google.com/drive/folders/1th3-Wm28_S9dhDtvDjV1BmYBvw_8_I-1?usp=sharing)
 
-## 아이디어톤 모델 아웃라인 포맷
+## 💖 아이디어톤 모델 아웃라인 포맷
 - 계획안 포맷
     - 주제 : ML 분석 목표
     - 모델링 방법
