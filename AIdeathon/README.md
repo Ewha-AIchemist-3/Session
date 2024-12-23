@@ -19,7 +19,7 @@ https://quizn.show/quz/show/myShowDetail.do?showSeq=565082
 2팀으로 나뉘어져서 모델 설계 계획부터 구현, 발표 진행   
 운영진에게 자유롭게 도움 요청해가면서 진행하시면 됩니다! 
 
-[ObesityDataSet_raw_and_data_sinthetic]    (https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+[ObesityDataSet_raw_and_data_sinthetic]    (https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)   
 [영화 정보 데이터셋]   
 (https://drive.google.com/drive/folders/1th3-Wm28_S9dhDtvDjV1BmYBvw_8_I-1?usp=sharing)
    
